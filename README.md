@@ -23,3 +23,9 @@ The project includes the following:
 [Power BI Report PDF](https://github.com/SadafTariq/HomelessnessIreland/blob/main/Homelessness.pdf)
 
 [Power BI Report Video](https://github.com/SadafTariq/HomelessnessIreland/blob/main/PBIReportVid.mp4)
+
+Data:
+
+[2022](https://github.com/SadafTariq/HomelessnessIreland/blob/main/2022.xlsx)
+[2021](https://github.com/SadafTariq/HomelessnessIreland/blob/main/2021.xlsx)
+[Yearly](https://github.com/SadafTariq/HomelessnessIreland/blob/main/Yearly.xlsx)
