@@ -16,6 +16,7 @@ For the analysis I extracted the data from the website from year 2016 to 2022 an
 I prepared the data using excel and visualize the data using Power BI platform.
 The project includes the following:
 
+[Report Summary](https://github.com/SadafTariq/HomelessnessIreland/blob/main/Report%20Summary.pdf)
 
 [Power BI Report](https://github.com/SadafTariq/HomelessnessIreland/blob/main/Homelessness2021-2022.pbix)
 
